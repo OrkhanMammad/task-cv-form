@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+.general{
+    height: 35rem;
+    width: 30%;
+    margin-left: 35%;
+    background-color: #72D1B4;
+    margin-top: 50px;
+    
+   
+}
+.first{
+    background-color: white;
+    border-radius: 30px;
+    height: 30rem;
+    width: 85%;
+    margin-left: 7.5%;
+    border-style: outset;
+    border-color: #73CFA9;
+    text-align: center;
+    
+    
+    
+}
+.fst{
+    width: 0%;
+    margin-bottom: 2.5rem;
+
+}
+img{
+    height: 10rem;
+    width: 46%;
+    border-radius: 100%;
+    margin-top: 14px;
+    
+    
+}
+h2{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 15px;
+    
+}
+h3{
+    color: #999999;
+    font-size: 26px;
+    margin-top: 18px;
+    font-weight: 300;
+}
+p{
+    font-size: 20px;
+    margin-top: 15px;
+    font-weight: 200;
+    color: #535856;
+    margin-bottom: 15px;
+}
+a{
+    height: 10px;
+    width: 10px;
+
+}
+.icon{
+    height: 30px;
+    width: 30px;
+}
+.linkedin{
+    height: 30px;
+    width: 30px;
+}
+.scnd{
+    width: 0%;
+    margin-bottom: 18px;
+}
+.contact{
+    padding: 6px 80px;
+    font-size: 28px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    font-weight: 600;
+}
